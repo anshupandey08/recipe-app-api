@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 Django>=3.2.4,<3.3
+=======
+Django>=3.2.4,<3.3
+>>>>>>> 0c1bf6dd602cf0a5c7cd09f0334267008ffc38b9
 djangorestframework>=3.12.4,<3.13
